@@ -1,4 +1,4 @@
-# Ruhan's Puzzle Box
+# Ruhaan's Puzzle Box
 
 A jigsaw puzzle game for kids, made for iPad. Play it at https://zetaq-logiq.github.io/ruhans-puzzle-box/
 
